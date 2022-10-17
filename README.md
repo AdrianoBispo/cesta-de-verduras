@@ -1,27 +1,25 @@
-![Thumbnails GitHub](https://user-images.githubusercontent.com/9091491/123842348-0e116c80-d8e7-11eb-8618-9c15cc743335.png)
+![Thumbnail](https://cdn.discordapp.com/attachments/743927816021737565/1031656604350816306/thumbnail-app-de-compras.png)
 
-![](https://img.shields.io/github/license/nataliakt/alura-react-native-comecando-do-zero)
+# 👨🏽‍💻 React Native: Meu Primeiro Projeto
 
-# ⚛️ React Native: Começando do Zero
-
-Esse é o projeto do curso **Começando do Zero** da formação em **React Native** na [Alura](https://www.alura.com.br/).
+Esse é o projeto desenvolvido no curso **Começando do Zero** da formação em **React Native** da [Alura Cursos](https://www.alura.com.br/).
 
 ## 📱 Projeto
 
-Este projeto implementa a tela de detalhes da cesta do e-commerce *orgs*. Nesta tela são mostrados dados estáticos do nome da cesta, fazenda, preço e itens da cesta.
+Esse projeto implementa a tela de detalhes da cesta do e-commerce *orgs*. Nesta tela são mostrados dados estáticos do nome da cesta, fazenda, preço e itens da cesta.
 
 <img src="https://user-images.githubusercontent.com/9091491/123982988-e3ccb700-d999-11eb-880e-872881ee8b10.gif" width="350" />
 
-## 🧑‍💻 Técnicas e Tecnologias
+## 💻 Técnicas e Tecnologias
 
-As técnicas e tecnologias utilizadas no projeto são:
+As técnicas e tecnologias que foram utilizadas no projeto foram:
 
-- `Expo`: tecnologia para simplificar o ambiente de desenvolvimento
-- `Componentes React Native`: componentes já existentes básicos da tecnologia para compor a tela
-  - `Text`: componente para exibir textos
-  - `View`: container para blocos de componentes
-  - `ScrollView`: container para blocos de componentes com barra de rolagem
-  - `Image`: componente para exibir imagens
+- `Expo`: tecnologia para simplificar o ambiente de desenvolvimento. Através dela podemos visualizar em tempo real a aplicação no celular.
+- `Componentes React Native`: componentes básicos já existentes da tecnologia que compõem a tela.
+  - `Text`: componente básico para exibir textos.
+  - `View`: container principal que abrange os outros componentes.
+  - `ScrollView`: container para blocos de componentes com barra de rolagem.
+  - `Image`: componente para exibição de imagens.
   - `TouchableOpacity`: componente para criar áreas clicáveis
 - `Componentes customizados`: criação e utilização de componentes customizados
 - `Suporte a telas`: não permitir que conteúdos estejam sob a *StatusBar* (barra superior nativa) ou barra de gestos do iPhone
@@ -33,15 +31,13 @@ As técnicas e tecnologias utilizadas no projeto são:
 
 ### ✔️ Pré-requisitos
 
-Para conseguir seguir este README e rodar o projeto você pode precisar dos seguintes itens:
-- Git para clonar o projeto e acessar as branches. Você pode instalar [aqui](https://git-scm.com/downloads);
-- Node para podermos rodar `expo` e `npm`. Você pode instala-lo [aqui](https://nodejs.org/en/);
-- Um celular Android ou iOS com o aplicativo Expo instalado, ou então algum simulador Android ou iOS no computador;
+Para conseguir rodar o projeto em sua máquina você pode precisará dos seguintes itens:
+- NodeJS para podermos rodar `expo` e `npm`. Você pode instala-lo [aqui](https://nodejs.org/en/);
+- Um celular Android ou iOS com o aplicativo Expo GO instalado, para que assim, você possa testar em seu dispositivo, ou então, algum simulador Android ou iOS no computador.
 
 Se quiser testar as instalações, rodar os comandos abaixo separadamente deve mostrar as respectivas versões.
 
 ```
-git --version
 node --version
 npm --version
 ```
@@ -52,15 +48,7 @@ npm install --global expo-cli
 expo --version
 ```
 
-### 🐙 Clonando o projeto
-
-Para ter acesso aos arquivos do projeto você pode clonar usando o seguinte comando:
-
-```
-git clone https://github.com/alura-cursos/react-native-comecando-do-zero.git
-```
-
-### ▶️ Rodando o Projeto
+### ▶ Rodando o Projeto
 
 Agora que já tem a pasta do projeto na sua máquina, dentro dela instale as dependências:
 ```
