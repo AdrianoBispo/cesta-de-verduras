@@ -2,7 +2,7 @@
 
 # 👨🏽‍💻 React Native: Meu Primeiro Projeto
 
-Esse é o projeto desenvolvido no curso **Começando do Zero** da formação em **React Native** da [Alura Cursos](https://www.alura.com.br/).
+Esse projeto foi desenvolvido através do curso **Começando do Zero** da formação em **React Native** da [Alura Cursos](https://www.alura.com.br/).
 
 ## 📱 Projeto
 
