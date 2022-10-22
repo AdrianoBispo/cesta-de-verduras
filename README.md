@@ -35,7 +35,7 @@ Para conseguir rodar o projeto em sua máquina você pode precisará dos seguint
 - NodeJS para podermos rodar `expo` e `npm`. Você pode instala-lo [aqui](https://nodejs.org/en/);
 - Um celular Android ou iOS com o aplicativo Expo GO instalado, para que assim, você possa testar em seu dispositivo, ou então, algum simulador Android ou iOS no computador.
 
-Se quiser testar as instalações, rodar os comandos abaixo separadamente deve mostrar as respectivas versões.
+Se quiser testar as instalações, basta rodar os comandos abaixo, separadamente, para mostrar as respectivas versões.
 
 ```
 node --version
@@ -50,12 +50,12 @@ expo --version
 
 ### ▶ Rodando o Projeto
 
-Agora que já tem a pasta do projeto na sua máquina, dentro dela instale as dependências:
+Agora que você já tem a pasta do projeto em sua máquina, dentro dela instale as dependências:
 ```
 npm install
 ```
 
-Então podemos rodar o projeto:
+Em seguida digite o seguinte comando para rodar o projeto:
 ```
 npm start
 ```
